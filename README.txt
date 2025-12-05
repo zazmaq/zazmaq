@@ -1,0 +1,1 @@
+This repo will eventually serve as the launchpad to view my personal portfolio. It is currently under construction. Check back later!
